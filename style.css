@@ -34,3 +34,21 @@
         color: #ff0000;
 
     }
+
+
+    .org2{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .quad1{
+        width: 35%;
+        height: auto;
+        padding: 1%;
+        background-color: rgb(255, 255, 255);
+    }
+    .quad1 p,li {
+        font-size: 20px;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+    }
